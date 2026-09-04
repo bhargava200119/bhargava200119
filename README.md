@@ -8,7 +8,7 @@
 
 ## 🧠 About Me
 - 🎓 B.Tech in Computer Science (2023)
-- 🎯 Currently learning MERN Stack @ NxtWave CCBP
+- 🎯 Earned Industry Ready Certificate (IRC) IN MERN Stack @ NXT Wave CCBP
 - 💡 Exploring modern JavaScript (ES6+), React, Node.js
 - 🎯 Strong in Problem Solving, Logic Building & UI Design
 
